@@ -1,6 +1,6 @@
 # Machine-Learning-Dissertation-Project
 
-My final year dissertation paper focussing on the developing Tsetlin Machine and the importance algorithm interpretability within ML models.
+My final year dissertation paper focussing on the developing Tsetlin Machine and the importance algorithm interpretability within ML models. I recieved an 86% grade on my final paper.
 
 ---
 
