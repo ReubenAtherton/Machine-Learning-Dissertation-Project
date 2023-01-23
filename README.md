@@ -4,7 +4,7 @@ My final year dissertation paper focussing on the developing Tsetlin Machine and
 
 ---
 
-1. Abstract
+Abstract.
 
 This paper discusses the value of machine learning visualisation, more specifically visualisation of the Tsetlin Machine. The motivation for such work includes how interpretability and visualisation of algorithms can be used to justify predictions made by machine learning models in high stake environments. Other motivations include the benefits of visualisation when studying new algorithms, as well as using visual tools to provide insight into the internal dynamics of the model, allowing for performance improvements to be made. The work associated with this paper uses visual driven experiments to:
 
